@@ -6,8 +6,9 @@ I am an interdisciplinary artist and engineer building things that people can in
 While an unfortunate amount of my work cannot be shared as open source, Github is my go-to place for collaborative projects (of which I need more!) and small tests and experiments.
 
 Please talk to me about:
- - Theatre, Circus, & Live Music
- - Urbanism, Transportation, & Policy
+ - Theatre, Circus, Live Music, Festivals, etc
+ - Urbanism and Urban Policy
+ - Transit, Transportation, and Micromobility
  - Trains!
  - Plenty more to come…
 
