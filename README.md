@@ -3,7 +3,7 @@
 
 I am an interdisciplinary artist and engineer building things that people can interact with. I am trained as a designer for live entertainment with a specialty in lighting design for theatre and stage, and I have worked as a cinematographer and editor for the past few years, but I like just about anything that creates a spectacle in the broadest definition of the word.
 
-While an unfortunate amount of my work cannot be shared as open source, Github is my go-to place for collaborative projects (of which I need more!) and small tests and experiments.
+While my past software consulting work is not public, Github is home to my past open source contributions and a wide range of side projects, technology tests, and experiments.
 
 Please talk to me about:
  - Film, Theatre, Circus, Live Music, Festivals, etc
