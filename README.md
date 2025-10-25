@@ -11,7 +11,7 @@ Please talk to me about:
  - Urbanism and Urban Policy
  - Transit, Transportation, and Micromobility
  - Trains!
- - Plenty more to come…
+ - And some other stuff…
 
 <!--
 **redbassett/redbassett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
